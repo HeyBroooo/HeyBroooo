@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mohitkumar4049" target="blank"><img src="https://img.shields.io/twitter/follow/@mohitkumar4049?logo=twitter&style=for-the-badge" alt="@mohitkumar4049" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs and Firebase**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **Mohitkumar4049a@gmail.com**
 
